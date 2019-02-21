@@ -1,0 +1,4 @@
+fakeredis
+pytest
+pytest-cov
+timeout_decorator
